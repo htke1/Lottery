@@ -1,0 +1,24 @@
+.booking {
+  padding-top: 2px;
+}
+
+img.bookPic {
+  border-radius: 10%;
+  height: 400px;
+  width: 400px;
+}
+
+.textCol {
+  padding-left: 15%;
+  padding-top: 10%;
+}
+
+h2 {
+  font-family: "Trebuchet MS", sans-serif;
+  font-weight: bold;
+  padding-top: 20px;
+}
+
+.picCol {
+  padding-right: 25%;
+}
